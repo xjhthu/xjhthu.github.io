@@ -1,0 +1,56 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Jiahao Xu - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/photo.jpg}{}{126}{}{}
+= Jiahao Xu
+
+*Ph.D. student*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Office*: \n
+*Email*: \n
+~~~
+
+#{{<a href="https://www.linkedin.com/in/yuzhe-ma-275a7bb5" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
+#<a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+
+== Biography
+
+I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2017.
+Previously, I received Master of Science with Merit from [https://www.imperial.ac.uk/computing Department of Computing], [https://www.imperial.ac.uk/ Imperial College London] in 2016,
+and Master of Engineering from [http://www.ustc.edu.cn/ USTC] in 2015.
+
+My research interests include machine learning and deep learning with applications in VLSI CAD and image processing.
+
+#[http://yuzhe630.github.io/cv/cv_Yuzhe.pdf *My Resume/CV*]
+
+
+== Publications
+- \[J1\] Lizhe Wang, *Hao Geng*, Peng Liu, Ke Lu, Joanna Kolodziej, Rajiv Ranjan, Albert Zomaya,
+  "[http://www.sciencedirect.com/science/article/pii/S0950705114003712 Particle Swarm Optimization based Dictionary Learning for Remote Sensing Big Data]",
+  Knowledge-Based System, vol. 79, pages 43-50, Elsevier, May, 2015.
+
+- \[C1\] *Hao Geng*, Lizhe Wang, Peng Liu, Lajiao Chen,
+  "[http://ieeexplore.ieee.org/abstract/document/6946980/ Compressed Sensing Based Remote Sensing Image Reconstruction Using an Auxiliary Image as Priors]",
+  in IEEE Geoscience and Remote Sensing Symposium (IGARSS), pages 2499-2502, IEEE, Quebec, Canada, 2014.
+
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+Postgraduate Studentship           | CUHK  | 2017-2021  ||
+Suzhou Industrial Park Scholarship | USTC  | 2014 
+~~~
+
+
+== Teaching
+
+2017 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/index.html CENG4480 -- Embedded System Development and Applications]
+
